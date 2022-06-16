@@ -1,2 +1,2 @@
 # Max30100-MQTT-ESP32CAM
-SENSOR DE COVID
+Este repositorio engloba todo el codigo necesario para el manejo del ejemplo de Detector de Sintomas COVID
